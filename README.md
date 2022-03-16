@@ -1,5 +1,5 @@
 # About me...
-### Hi there 👋,i'm Federico Acosta. I 'm a systems student at UNLa.
+### Hi there 👋,i'm Federico Acosta. I 'm a Systems student at UNLa.
 ### I 'm interested in learning new technologies and skills, and sharing knowledge with the community. ⚡
 ## Skills
 <img src='https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg' width='40px'/> <img src='https://www.nicepng.com/png/full/981-9813175_c-logo-c-programming-language-logo.png' width='30px'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png' width='30px'/> <img src='https://img2.freepng.es/20190610/gou/kisspng-microsoft-azure-sql-database-microsoft-azure-sql-d-postani-spletni-razvijalec-izberite-svojo-uno-5cfe7bd5b6e377.6992930615601817177491.jpg' width='40px'/> <img src='https://img1.freepng.es/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg' width='40px'/> 
