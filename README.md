@@ -2,12 +2,6 @@
 ### Hi there 👋,i'm Federico Acosta. I 'm a Systems student at UNLa.
 ### I 'm interested in learning new technologies and skills, and sharing knowledge with the community. ⚡
 
-# How to contact me?
-<a href='https://www.instagram.com/7ucum/'><img src='https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png' width='30px'/> <a href='https://www.linkedin.com/in/federico-acosta-052716205/'><img src='https://img1.freepng.es/20180610/pax/kisspng-linkedin-corporation-social-media-logo-business-ca-hastings-county-5b1d59c67cea33.1381192015286501825117.jpg' width='32px'/> 
-
-
-
-
 <!--
 **FedeOA/FedeOA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
